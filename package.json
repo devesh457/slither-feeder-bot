@@ -1,5 +1,5 @@
 {
-  "name": "Slither Feeder Bot",
+  "name": "Slither-Feeder-Bot",
   "version": "0.0.0",
   "description": "An Open Source Slither.io Slither bots",
   "main": "dist/index.js",
@@ -38,6 +38,7 @@
     "tunnel": "0.0.4",
     "websocket": "^1.0.22",
     "winston": "^2.2.0",
-	"socket.io-client": "^1.4.6"
+	"socket.io-client": "^1.4.6",
+	"socket.io": "^1.4.5"
   }
 }
